@@ -1,0 +1,7 @@
+[1128/193449.699:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1202/121838.874:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1203/211858.334:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1205/215257.170:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\harch\AppData\Local\AVG\Browser\User Data\Crashpad\attachments\4e938a49-8469-400d-8e2c-6359fcb392e3: The system cannot find the path specified. (0x3)
+[1206/140141.212:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1208/161509.293:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1214/163817.795:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
